@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.225.136.172:8443/package/GamePlatform.ipa</string>
+					<string>http://10.225.136.172:8081/package/GamePlatform.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://10.225.136.172:8443/download/static/yoka001.png</string>
+					<string>http://10.225.136.172:8081/package/yoka001.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://10.225.136.172:8443/download/static/yoka002.png</string>
+					<string>http://10.225.136.172:8081/package/yoka002.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
